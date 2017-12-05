@@ -1,0 +1,13 @@
+.jumbotron {
+  margin-top: 5%;
+}
+
+p {
+  font-size: 14px !important;
+  margin-bottom: 0px !important;
+}
+
+.timeline {
+/*   background-color: black; */
+  width: 67%;
+}
